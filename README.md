@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hola, soy Luis Plascencia
 
-<!--
-**Luis-Plascencia/Luis-Plascencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas Computacionales  
+💻 Apasionado por el desarrollo web, la automatización, soporte tecnico, y las nuevas tecnologias.  
+🌱 Actualmente aprendiendo React, Git y Django  
+🚀 Construyendo mi portafolio de proyectos  
+📫 Contáctame: luisg@cabotech.com.mx
 
-Here are some ideas to get you started:
+## 🛠 Tecnologías que estoy usando
+- HTML, CSS, JavaScript (en progreso)
+- Python, Django (en progreso)
+- Git & GitHub (en progreso)
+- MySQL, PostgreSQL (en progreso)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
